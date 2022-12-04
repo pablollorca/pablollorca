@@ -1,5 +1,5 @@
 ## Hi 👋 I'm Pablo Llorca.
-##### 🌱 I’m currently learning Python 
+##### 🌱 I’m currently learning Python & Data Science
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/pablollorca?style=social)](https://twitter.com/pablollorca)
