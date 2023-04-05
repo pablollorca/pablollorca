@@ -8,7 +8,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://pablollorca.com/existencial2.png">
  <source media="(prefers-color-scheme: light)" srcset="https://pablollorca.com/existencial2.png">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+
 </picture>
 
 
